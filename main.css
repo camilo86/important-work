@@ -1,0 +1,26 @@
+body {
+    background-color: #2d89ef;
+    color: white;
+    font-family: 'segoe UI', monospace;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 1.5em;
+    font-weight: 200;
+}
+
+p {
+    margin: 0;
+}
+
+.sk-circle .sk-child:before {
+    background-color: white !important;
+}
+
+.sk-circle {
+    width: 3em !important;
+    height: 3em !important;
+}
