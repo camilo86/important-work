@@ -1,0 +1,35 @@
+body {
+    background: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: Helvetica, sans-serif;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    height: 100vh;
+}
+
+img {
+    margin-top: -5em;
+    margin-bottom: 10em;
+}
+
+.apple-bar {
+    border: 1px solid rgba(223, 223, 223, .7);
+    border-radius: 8px;
+    height: 8px;
+    width: 35em;
+    background-color: rgba(158, 157, 157, .5);
+}
+
+.apple-progress {
+    height: 100%;
+    width: 30%;
+    background: white;
+    border-radius: 8px 0px 0px 8px;
+}
+
+p {
+    font-size: 18px;
+}
