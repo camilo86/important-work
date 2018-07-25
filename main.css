@@ -1,7 +1,7 @@
 body {
     background-color: #2d89ef;
     color: white;
-    font-family: 'segoe UI', monospace;
+    font-family: 'Open Sans', monospace;
     display: flex;
     flex-direction: column;
     justify-items: center;
@@ -9,7 +9,7 @@ body {
     align-items: center;
     height: 100vh;
     font-size: 1.5em;
-    font-weight: 200;
+    font-weight: 300;
     overflow: hidden;
 }
 
